@@ -54,6 +54,19 @@ Run interface_camera.py to capture the photos in real-time and send it to remote
 interface_camera.py has two threads running, one for capturing and storing image and other is for transmitting the stored image to the server. It uses paramiko library for easier scp to the server.
 
 
+## Screenshots
+
+![drone](./snapshots/drone.jpg "Drone with pixhawk")
+
+![test_aiskyeye](./snapshots/test_img5.jpg "Test image in Aiskyeye Dataset")
+<<<<<<< HEAD
+![test_realtime1](./snapshots/realtime1.jpg "Aerial Images Object Detection")
+![test_realtime2](./snapshots/realtime2.jpg "Aerial Images Object Detection")
+=======
+![test_realtime1](./snapshots/real-time1.jpg "Aerial Images Object Detection")
+![test_realtime2](./snapshots/real-time2.jpg "Aerial Images Object Detection")
+>>>>>>> master
+
 ## References
 
 [1] 
