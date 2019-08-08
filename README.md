@@ -59,8 +59,13 @@ interface_camera.py has two threads running, one for capturing and storing image
 ![drone](./snapshots/drone.jpg "Drone with pixhawk")
 
 ![test_aiskyeye](./snapshots/test_img5.jpg "Test image in Aiskyeye Dataset")
+<<<<<<< HEAD
 ![test_realtime1](./snapshots/realtime1.jpg "Aerial Images Object Detection")
 ![test_realtime2](./snapshots/realtime2.jpg "Aerial Images Object Detection")
+=======
+![test_realtime1](./snapshots/real-time1.jpg "Aerial Images Object Detection")
+![test_realtime2](./snapshots/real-time2.jpg "Aerial Images Object Detection")
+>>>>>>> master
 
 ## References
 
